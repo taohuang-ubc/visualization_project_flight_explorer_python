@@ -10,7 +10,7 @@ This deployed Python dashboard on Heroku: https://flight-explorer-milestone2.her
 
 This project was also done in R, the repo can be found: https://github.com/taohuang-ubc/flight_explorer_R
 
-This deployed R dashboard on Heroku: https://flight-explorer-milestone2.herokuapp.com/
+This deployed R dashboard on Heroku: https://group-111-flight-explorer-r.herokuapp.com/
 
 # App Sketeches
 
