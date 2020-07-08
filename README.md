@@ -8,7 +8,6 @@ This repo is for the Python version of this project.
 
 This deployed Python dashboard on Heroku: https://flight-explorer-milestone2.herokuapp.com/
 
---------------------------------------------------------
 This project was also done in R, the repo can be found: https://github.com/taohuang-ubc/flight_explorer_R
 
 This deployed R dashboard on Heroku: https://flight-explorer-milestone2.herokuapp.com/
