@@ -1,12 +1,30 @@
 # FLIGHT EXPLORER
 
-Flight safety is often an important issue. Airlines are financially affected by plane malfunctions, since travellers often will pick an airline based on its record of safety, and a particularly bad incident will leave a bad reputation, regardless of improvements. In addition, various agencies would like to collect data about air safety, in order to discover any trends or patterns involved with air accidents.
+Flight Explorer is a dashboard project that visualizes airline flight data with regards to flight incidents at different airlines, and displays them by airlines, incident numbers, as well as other factors such as first-world status of originating airlines, and lethality of air incidents.
 
-Flight Explorer is a dashboard that visualizes airline flight data with regards to flight incidents at different airlines, and displays them by airlines, incident numbers, as well as other factors such as first-world status of originating airlines, and lethality of air incidents.
+# Versions
+--------------------------------------------------------
+This repo is for the Python version of this project.
+
+This deployed Python dashboard on Heroku: https://flight-explorer-milestone2.herokuapp.com/
+
+--------------------------------------------------------
+This project was also done in R, the repo can be found: https://github.com/taohuang-ubc/flight_explorer_R
+
+This deployed R dashboard on Heroku: https://flight-explorer-milestone2.herokuapp.com/
+
+--------------------------------------------------------
+
+# App Sketeches
 
 ![](1.png)
 
 ![](2.png)
+
+# Introduction
+
+Flight safety is often an important issue. Airlines are financially affected by plane malfunctions, since travellers often will pick an airline based on its record of safety, and a particularly bad incident will leave a bad reputation, regardless of improvements. In addition, various agencies would like to collect data about air safety, in order to discover any trends or patterns involved with air accidents.
+
 
 ## Contributions
 
